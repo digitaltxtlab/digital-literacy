@@ -8,8 +8,9 @@ This repo contains resourceses for the Digital Literacy project 2018 @ Aarhus Un
 - smurf extractor
 
 ### Normalization
-- POS-tagger for Scandinavian languages
-- language detection and translation (with Google Cloud API)
+- POS-tagger for (contemporary) Scandinavian languages
+- language detection and translation
+- lemmatizer, POS-tagger and dependency parser for contemporary Danish
 
 ### Analysis and modelling
 - topic/content analysis tool (LDA and guided LDA)

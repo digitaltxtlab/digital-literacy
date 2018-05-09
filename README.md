@@ -6,6 +6,7 @@ This repo contains resourceses for the Digital Literacy project 2018 @ Aarhus Un
 ### Data acquisition
 - webscraber and twitter scraper (for historical data)
 - smurf extractor
+- web page automated screenshot 
 
 ### Normalization
 - POS-tagger for (contemporary) Scandinavian languages

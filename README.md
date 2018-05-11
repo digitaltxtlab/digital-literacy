@@ -5,11 +5,7 @@ This repo contains resourceses for the Digital Literacy project 2018 @ Aarhus Un
 
 ### Data acquisition
 - smurf extractor
-<<<<<<< HEAD
 - webscraber and twitter scraper (for historical data)
-=======
-- web page automated screenshot 
->>>>>>> bcd717f0fe9cf25d39306e7e51d02a0d0282a14c
 
 ### Normalization
 - language detection and translation
